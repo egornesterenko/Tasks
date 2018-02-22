@@ -10,7 +10,7 @@ using namespace std;
 class Kata
 {
 public:
-    int countInversions(std::vector<int> array)
+    int countInversions(vector<int> array)
     {
         int counter = 0;
         bool swapp = true;
